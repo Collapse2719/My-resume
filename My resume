@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Resume</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your stylesheet -->
+</head>
+<body>
+    <header>
+        <!-- Header and contact information -->
+        <h1>Fesan Valery</h1>
+        <p>Phone: +380123456789</p>
+        <p>Email: example@email.com</p>
+        <!-- Other contact details -->
+    </header>
+    <main>
+        <!-- Sections for education, work experience, skills, etc. -->
+        <section id="education">
+            <h2>Education: Doctor of Science in Software Engineering</h2>
+            <!-- List of educational details -->
+        </section>
+        <section id="experience">
+            <h2>Work Experience: Two years at Google and three at other startups</h2>
+            <!-- List of work experience details -->
+        </section>
+        <section id="skills">
+            <h2>Skills: Python, Django, CSS, SQL, Flask</h2>
+            <!-- List of your skills -->
+            <h2>My resume</h2>
+            <h2>https://www.figma.com/file/8Am1r5UAzEGaUqLHhhsBYg/Untitled?type=design&node-id=0%3A1&mode=design&t=sMqabtiLH7QG6SCg-1</h2>
+        </section>
+        <header>
+            <img src="Resume.png">
+        </header>    
+    </main>
+    <footer>
+        <!-- Footer with date and copyright information -->
+        <p>&copy; 2024 Fesan Valery. All rights reserved.</p>
+    </footer>
+</body>
+</html>
